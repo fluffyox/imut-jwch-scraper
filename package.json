@@ -1,0 +1,17 @@
+{
+  "name": "imut-jwch-scraper",
+  "version": "1.0.1",
+  "description": "解析内蒙古工业大学教务处公告的 Node.js 模块。",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fluffyox/imut-jwch-scraper.git"
+  },
+  "keywords": ["imut", "jwch", "announcements", "crawler", "scraper", "education"],
+  "author": "fluffyox",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
